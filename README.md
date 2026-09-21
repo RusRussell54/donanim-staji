@@ -2,6 +2,10 @@
 
 Bu depo, Sakarya Uygulamalı Bilimler Üniversitesi Bilgi İşlem Daire Başkanlığı bünyesinde gerçekleştirdiğim zorunlu donanım stajı süresince yürüttüğüm saha çalışmaları, donanım/yazılım bakımları, ağ altyapı kurulumları ve sistem yönetim süreçlerine ait günlük teknik detayları içermektedir.
 
+## Staj Defteri
+
+[Staj defterini PDF olarak görüntüle](docs/staj-defteri.pdf)
+
 ---
 
 ## 📌 İçindekiler
