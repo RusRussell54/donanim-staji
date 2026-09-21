@@ -8,7 +8,7 @@ Staj sürecinde gerçekleştirilen çalışmaların, kazanılan teknik deneyimle
 
 <p>
   <a href="b231210035_StajDefteri.pdf">
-    <img src="https://img.shields.io/badge/Staj%20Defterini%20Görüntüle-PDF-b91c1c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+    <img src="https://img.shields.io/badge/Staj%20Defterini%20Görüntüle-PDF-b91c1c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Staj Defterini PDF olarak görüntüle">
   </a>
 </p>
 ---
